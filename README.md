@@ -46,4 +46,4 @@ The clear next step for this research would be to apply this validated architect
 ### Runnable Code & Data
 A complete, documented, and runnable version of this project is available as a public Kaggle Notebook:
 
-[link to kaggle nb]
+[Link to Kaggle](https://www.kaggle.com/code/yoonzerolee/bandaru-lab-inspired-ai)
